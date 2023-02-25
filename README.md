@@ -17,6 +17,8 @@ Becuase many twinkling christmas light haven't advanced controller such able to 
 
 ![photo_2023-02-25_01-14-35](https://user-images.githubusercontent.com/55639759/221327978-54a15a06-51fa-4435-99aa-76a29a05ca90.jpg)
 
+![image](https://user-images.githubusercontent.com/55639759/221334836-9c1a4fbb-2173-4b5d-af24-624250e5b2dc.png)
+
 
 # Usage serial command
 
