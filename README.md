@@ -81,7 +81,7 @@ You need have to Atmel Studio 7 IDE as building code, if you don't have it tools
 
 4. Open file explorer with ```\TWINKLING_CHRISTMAS_LIGHT\TWINKLING_CHRISTMAS_LIGHT\Debug``` with folder name using name of repository and find .hex and .elf binary file. 
 
-PS: I'll provided instruction how build source code of this project.
+PS: I'll provide instruction how build source code of this project.
 
 # Programm our firmware to microcontroller atmega328p
 
@@ -89,4 +89,4 @@ You need to have hardware USBtiny programmer and microcontroller atmega328 circu
 
 Using AVRDUDES software to programm our binary file. 
 
-PS: I'll provided instruction how programm firmware soon. 
+PS: I'll provide instruction how programm firmware soon and provide electronics circuit soon.
