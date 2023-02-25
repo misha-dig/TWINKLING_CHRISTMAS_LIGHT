@@ -2,7 +2,7 @@
 A project make adjustable brightness and frequency blinking twinkling Christmas light by using existing or old twinkling Christmas light via PC/embedded computer over UART interface. Based via atmega328p microcontroller. This code of project is used based LED_CONTROLLER_VIA_UART_ATMEGA328P for UART communication which the describtion has deep explainion about how use source of code. Links my pervious repository https://github.com/misha-dig/LED_CONTROLLER_VIA_UART_ATMEGA328P , you may be to read about codes and credits. 
 
 # Why I choose the project
-Becuase many twinkling christmas light haven't advanced controller such able to dim and change functionality like RGB LED with remote controller by using existing old twinkling Christmas light. Changing function of LED by communication via PC/embedded computer, such Raspberry PI or server with local network to able controller remotely. 
+Becuase many twinkling christmas light haven't advanced controller such able to dim and change functionality like RGB LED with remote controller by using existing old twinkling Christmas light. Changing function of LED by communication via PC/embedded computer, such Raspberry PI or server with local network to able controller remotely. You need to use USB UART Bridge adapter for computer hasn't internal UART pins for usage LED controller over computer. Also, you may be to use controller when power supply and controller of twinkling christmas light is broked is rarely case.    
 
 # Features
 * Adjusable brightness light from dimmer to brigthest level
