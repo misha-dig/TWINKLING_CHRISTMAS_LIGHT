@@ -62,6 +62,10 @@ Please set as speed 115200 bit/s and 8bit - data, 1bit - stopbit, no parity befo
 
 ```SET_BLINK_FREQ_2HZ``` - Set frequency of blinking LED 2.0 HZ / 0.5 seconds period.
 
+```SET_BRIGHTNESS_LIGHT=``` Set brightness of light for function steady on and blinking light. 
+
+You can set from 0 to 127 (for both groups of color LED mode) and from 0 to 255 (for single groups of color LED  mode). For example, you can send a command via UART ```SET_BRIGHTNESS_LIGHT=100``` - that LEDs will set brightness value of 100. If you entered a command ```SET_BRIGHTNESS_LIGHT=27``` - that LEDs will set brightness value of 27.  
+
 Hex value of carrige return - ``` 0x0d ```. Decimal value of carrige return - ``` 13 ```.
 
 If you enterred command other than list above, you will receive error message.
