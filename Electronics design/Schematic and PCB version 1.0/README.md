@@ -8,4 +8,4 @@ For example, forward polarity connected to LED will grow RED color LED, but in r
 
 Our twinkling light with changing color of LED has two wire that able connect to power. 
 
-So, I decided to build my circuit with H-Bridge LED driver for switching colour of LED.
+So, I decided to build my circuit with H-Bridge LED driver for switching colour of LED like changing direction of DC motor application circuit.  
